@@ -1,3 +1,7 @@
+# Live URL
+You can access the website using the following url:
+https://thasneemshopper.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
